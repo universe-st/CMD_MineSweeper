@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\shensheng\documents\visual studio 2015\projects\扫雷\扫雷\源.cpp(437): warning C4244: “=”: 从“__int64”转换到“double”，可能丢失数据
+  扫雷.vcxproj -> C:\Users\Shensheng\Documents\Visual Studio 2015\Projects\扫雷\Debug\扫雷.exe
+  扫雷.vcxproj -> C:\Users\Shensheng\Documents\Visual Studio 2015\Projects\扫雷\Debug\扫雷.pdb (Partial PDB)
